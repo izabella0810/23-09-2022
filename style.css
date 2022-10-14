@@ -1,4 +1,10 @@
 h1{
-color:blueviolet
+color:rgb(143, 112, 172)
 
+}
+.roxo{
+width: 25%;
+border: solid 10px yellow;
+margin-left: 30px;
+padding: 20px;
 }
